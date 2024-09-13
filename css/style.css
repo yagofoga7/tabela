@@ -1,0 +1,9 @@
+td, th{
+    border: 2px dotted;
+    border-radius: 5%;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;
+  
+}
